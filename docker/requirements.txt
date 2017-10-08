@@ -1,0 +1,7 @@
+cx_Oracle
+pymongo
+jedi
+psutil
+blessings
+pytest
+pytest-cov

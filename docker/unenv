@@ -1,0 +1,3 @@
+unalias vim
+unalias pytest
+unalias python
